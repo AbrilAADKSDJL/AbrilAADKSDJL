@@ -19,15 +19,15 @@ Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, crea
 
 ### 🚀 Tecnologías y herramientas
 <p align="center">
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhxaGF4ZDdmZHhqYXU3YW15dGdpczUwMmdkMHp2ZmtxdXpiZTBwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="400" alt="gato programando">
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,postgres,sqlite,mysql,visualstudio,vscode,git,github" />
 </p>
 
 ---
 
 ### 📊 Mis estadísticas
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhxaGF4ZDdmZHhqYXU3YW15dGdpczUwMmdkMHp2ZmtxdXpiZTBwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="400" alt="gato programando">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrillezcano&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrillezcano&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
@@ -51,8 +51,9 @@ Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, crea
 ---
 
 ### 🧠 En constante aprendizaje
-
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBmZzQ5aHM0MHZ0ZjVxb2kzMTB5MHl0Mm82MTRqdm9rcXoxaXowaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="400" alt="gato programando">
+</p>
 
 🌱 Actualmente profundizando en:
 - Arquitectura de aplicaciones con **.NET**  

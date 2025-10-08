@@ -19,7 +19,7 @@ Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, crea
 
 ### 🚀 Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,postgres,sqlite,mysql,visualstudio,vscode,git,github" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhxaGF4ZDdmZHhqYXU3YW15dGdpczUwMmdkMHp2ZmtxdXpiZTBwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
 </p>
 
 ---

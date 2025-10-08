@@ -9,21 +9,22 @@
 
 ### 💻 Sobre mí
 Soy **Abril Lezcano**, estudiante de la **Tecnicatura en Programación** en la Técnica 7.  
-Me apasiona el desarrollo web, especialmente los proyectos dinámicos con **PHP** y **MySQL**.  
-🎮 Además, estoy creando mi propia **tienda de videojuegos online**.  
+Me apasiona el desarrollo de software, la lógica de programación y el aprendizaje constante.  
+Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, creando proyectos prácticos para mejorar mis habilidades y experiencia.
 
-Me encanta aprender, mejorar mis proyectos y darles un toque personal a cada uno. 🌟
+📚 Me gusta combinar el desarrollo **frontend** y **backend** para construir aplicaciones completas y bien estructuradas.  
+💡 Mi objetivo es seguir creciendo como desarrolladora y trabajar en proyectos que generen impacto.
 
 ---
 
-### 🚀 Tecnologías y herramientas que uso
+### 🚀 Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs,dotnet,git,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,postgres,sqlite,mysql,visualstudio,vscode,git,github" />
 </p>
 
 ---
 
-### ✨ Mis estadísticas
+### 📊 Mis estadísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abrillezcano&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrillezcano&layout=compact&theme=radical" height="160" />
@@ -39,25 +40,28 @@ Me encanta aprender, mejorar mis proyectos y darles un toque personal a cada uno
   <a href="https://github.com/abrillezcano">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🎮 Un poco más de mí
+### 🧠 En constante aprendizaje
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="gamer gif">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif">
 </p>
 
-💬 “El código es mi forma de crear mundos nuevos.”  
-💡 Siempre aprendiendo algo nuevo, un commit a la vez.
+🌱 Actualmente profundizando en:
+- Arquitectura de aplicaciones con **.NET**  
+- Desarrollo de interfaces con **React**  
+- Consultas y optimización en **SQL Server** y **PostgreSQL**
 
 ---
 
 ⭐ **Gracias por visitar mi perfil**  
-Si te gustó mi trabajo, no dudes en dejar una ⭐ en alguno de mis proyectos.
+Si te gusta mi trabajo, ¡no dudes en dejar una estrella ⭐ en alguno de mis proyectos!
+

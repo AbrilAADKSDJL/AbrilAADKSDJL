@@ -12,7 +12,7 @@ Soy **Abril Lezcano**, estudiante de la **Tecnicatura en Programación** en la T
 Me apasiona el desarrollo de software, la lógica de programación y el aprendizaje constante.  
 Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, creando proyectos prácticos para mejorar mis habilidades y experiencia.
 
-📚 Me gusta combinar el desarrollo **frontend** y **backend** para construir aplicaciones completas y bien estructuradas.  
+📚 Me gusta desarrollar **backend** para construir aplicaciones completas y bien estructuradas.  
 💡 Mi objetivo es seguir creciendo como desarrolladora y trabajar en proyectos que generen impacto.
 
 ---
@@ -52,13 +52,12 @@ Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, crea
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBmZzQ5aHM0MHZ0ZjVxb2kzMTB5MHl0Mm82MTRqdm9rcXoxaXowaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="400" alt="gato programando">
 </p>
 
-🌱 Actualmente profundizando en:
+Actualmente profundizando en:
 - Arquitectura de aplicaciones con **.NET**  
-- Desarrollo de interfaces con **React**  
-- Consultas y optimización en **SQL Server** y **PostgreSQL**
+- Consultas y optimización en **MySql** **SQL Server** y **PostgreSQL**
 
 ---
 
 ⭐ **Gracias por visitar mi perfil**  
-Si te gusta mi trabajo, ¡no dudes en dejar una estrella ⭐ en alguno de mis proyectos!
+
 

@@ -19,7 +19,8 @@ Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, crea
 
 ### 🚀 Tecnologías y herramientas
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhxaGF4ZDdmZHhqYXU3YW15dGdpczUwMmdkMHp2ZmtxdXpiZTBwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhxaGF4ZDdmZHhqYXU3YW15dGdpczUwMmdkMHp2ZmtxdXpiZTBwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="400" alt="gato programando">
+
 </p>
 
 ---

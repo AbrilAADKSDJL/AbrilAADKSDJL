@@ -27,8 +27,7 @@ Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, crea
 
 ### 📊 Mis estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrillezcano&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrillezcano&layout=compact&theme=radical" height="160" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhxaGF4ZDdmZHhqYXU3YW15dGdpczUwMmdkMHp2ZmtxdXpiZTBwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="400" alt="gato programando">
 </p>
 
 ---
@@ -52,9 +51,7 @@ Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, crea
 ---
 
 ### 🧠 En constante aprendizaje
-<p align="center">
-  <img src="[https://media.tenor.com/NOYF3f82b_gAAAAC/cat-computer.gif](https://tenor.com/es-419/view/cat-computer-typing-busy-gif-15481689)" width="400" alt="gato programando">
-</p>
+
 
 
 🌱 Actualmente profundizando en:

@@ -52,7 +52,7 @@ Actualmente trabajo con **C#**, **React**, **SQL Server** y **PostgreSQL**, crea
 
 ### 🧠 En constante aprendizaje
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif">
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif](https://tenor.com/es-419/view/cat-computer-typing-busy-gif-15481689)">
 </p>
 
 🌱 Actualmente profundizando en:

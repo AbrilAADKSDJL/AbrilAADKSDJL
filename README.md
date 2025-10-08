@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola, soy Abril!</h1>
 
 <p align="center">
-
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVycjJncGU1bjg1azIzNzQ4azZka2FseDhycXp5eGZpdmVqdDZ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LZUIlUs55rm7u/giphy.gif" width="400" alt="gato programando">
 </p>
 
 ---
